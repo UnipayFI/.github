@@ -1,4 +1,4 @@
-# **Unipay: Empowering Payments with Yield-Bearing Stablecoins**
+# Unipay: Redefining Payments with Yield-Bearing Stablecoins
 
 Unipay is a multi-chain payment protocol that offers a decentralized and yield-bearing stablecoin solution, **USDu**, designed to replace reliance on traditional banking systems. Alongside USDu, Unipay powers a globally accessible payment ecosystem through its credit-driven payment instruments and settlement layers.
 
